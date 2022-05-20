@@ -10,4 +10,4 @@ RPi OS w/ OMV Preinstalled for easy setup!
 
 For config instructions view official intructions on openmediavault.org
 
-# This is an unofficial build which is not supported by OMV or the Raspberry Pi Foundation.
+This is an unofficial build which is not supported by OMV or the Raspberry Pi Foundation.
