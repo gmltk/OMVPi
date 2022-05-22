@@ -1,5 +1,10 @@
 ## OMVPi
 
+Want to setp your own NAS and have no idea what "sudo" is?
+
+Dont worry, follow our steps and you'll be up and running without touching the command line!
+
+
 You can use the [editor on GitHub](https://github.com/gmltk/OMVPi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
